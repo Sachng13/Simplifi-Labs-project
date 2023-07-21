@@ -10,7 +10,10 @@ Link-  https://coruscating-paletas-f0f917.netlify.app
 
 <h2>Solution </h2>
 <br>
-<img width="960" alt="Screenshot 2023-07-21 172101" src="https://github.com/Sachng13/Simplifi-Labs-project/assets/132441441/94ddc2f3-37ad-4c6b-9279-afc4e9e45ab4">
+<img width="960" alt="image" src="https://github.com/Sachng13/Simplifi-Labs-project/assets/132441441/5117fc9e-2cf4-4913-a14a-e4371485efea">
+<img width="960" alt="image" src="https://github.com/Sachng13/Simplifi-Labs-project/assets/132441441/3a858b4b-b7e6-492c-8863-6b456aecc882">
+
+
 
 <h3>Refer to the video for more detail</h3>
 <br>
